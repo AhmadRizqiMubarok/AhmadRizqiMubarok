@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi 👋, I'm Ahmad Rizqi Mubarok
 
-<!--
-**AhmadRizqiMubarok/AhmadRizqiMubarok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer dari Indonesia
+🚀 Fokus di Laravel, PHP, dan MySQL
 
-Here are some ideas to get you started:
+🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Laravel
+- PHP
+- MySQL
+- HTML, CSS, JavaScript
+- Bootstrap
+
+📂 Project Unggulan
+
+    - 🏢 Sistem Dekopinda
+    Aplikasi manajemen data koperasi berbasis Laravel (CRUD, pengelolaan data anggota & transaksi)
+
+    - 📊 KDMP (Sistem Manajemen Data)
+    Aplikasi untuk mengelola dan memproses data dengan fitur CRUD dan laporan
+
+     - 💡 Pandai Digital
+      Platform berbasis web untuk manajemen layanan digital dan data pengguna
+
+      📫 Contact
+
+     - Email:
+      ahmadrizqimubarok122@gmail.com
+
+      ⚡ Tentang Saya
+
+      Saya adalah lulusan SMK jurusan TKJ yang memiliki minat di bidang Web Development, khususnya backend dan frontend menggunakan Laravel. Saya terbiasa membuat aplikasi berbasis CRUD dan sistem penjualan serta manajemen data.
